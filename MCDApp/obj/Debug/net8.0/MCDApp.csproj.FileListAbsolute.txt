@@ -1,0 +1,14 @@
+/home/ubuntu/MCDApp/bin/Debug/net8.0/MCDApp
+/home/ubuntu/MCDApp/bin/Debug/net8.0/MCDApp.deps.json
+/home/ubuntu/MCDApp/bin/Debug/net8.0/MCDApp.runtimeconfig.json
+/home/ubuntu/MCDApp/bin/Debug/net8.0/MCDApp.dll
+/home/ubuntu/MCDApp/bin/Debug/net8.0/MCDApp.pdb
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.AssemblyInfoInputs.cache
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.AssemblyInfo.cs
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.csproj.CoreCompileInputs.cache
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.dll
+/home/ubuntu/MCDApp/obj/Debug/net8.0/refint/MCDApp.dll
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.pdb
+/home/ubuntu/MCDApp/obj/Debug/net8.0/MCDApp.genruntimeconfig.cache
+/home/ubuntu/MCDApp/obj/Debug/net8.0/ref/MCDApp.dll
